@@ -1,6 +1,12 @@
 KingDB
 ======
 
+###This fork aims to:
+
+Learn the internals of the key-value stores and OSes .
+
+And, add Bloom filters to the store
+
 ###What is KingDB?
 
 **KingDB** is a fast on-disk persistent key-value store. You can embed it or use it as a library in your C++ applications.
