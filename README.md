@@ -5,7 +5,7 @@ KingDB
 
 Learn the internals of the key-value stores and OSes .
 
-And, add Bloom filters to the store
+And, add Bloom filter to the store
 
 ###What is KingDB?
 
